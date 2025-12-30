@@ -13,7 +13,7 @@ AUTOSTART_DIR = os.path.expanduser("~/.config/autostart")
 ICON_DIR = os.path.expanduser("~/.local/share/icons")
 
 def install():
-    print("🚀 Installing ClipVault v0.2.1 (Binary Method)...")
+    print("🚀 Installing ClipVault v0.3.0 (Binary Method)...")
 
     # 1. Check if binary exists
     if not os.path.exists(BINARY_SOURCE):
@@ -43,7 +43,7 @@ def install():
     desktop_content = f"""[Desktop Entry]
 Type=Application
 Name={APP_NAME}
-Comment=Clipboard Manager v0.2.1
+Comment=Clipboard Manager v0.3.0
 Exec={dest_binary}
 Icon={dest_icon}
 Terminal=false
