@@ -1,5 +1,6 @@
 # 🛡️ ClipVault
 > **Version 0.3.0** | Professional, Lightweight & Secure Clipboard Manager for Linux.
+
 ![Platform](https://img.shields.io/badge/Platform-Linux-blue)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-yellow)
 ![License](https://img.shields.io/badge/License-GPLv3-green)
