@@ -94,4 +94,4 @@ This project is licensed under the **GNU GPLv3 License**. You are free to modify
 
 ---
 
-**Developed by [Dtera-dev](https://www.google.com/search?q=https://github.com/Dtera-dev) with a focus on efficiency.**
+**Developed by [Dtera-dev](https://github.com/Dtera-dev) with a focus on efficiency.**
