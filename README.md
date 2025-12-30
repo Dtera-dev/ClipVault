@@ -82,11 +82,9 @@ pyinstaller --onefile --windowed --name ClipVault main.py
 
 ## 🗺️ Project Roadmap
 
-* [x] **v0.1.0:** Core clipboard monitoring and storage.
-* [x] **v0.2.0:** RTL support and basic UI.
+* [x] **v0.2.1:** RTL support and basic UI.
 * [x] **v0.3.0:** (Current) Global hotkeys, Mouse positioning, Pinned items, and Edit mode.
 * [ ] **v0.4.0:** Image/Screenshot support and localized blacklist for sensitive apps.
-* [ ] **v0.5.0:** Plugin system for text transformation (e.g., Base64 decode, JSON format).
 
 ---
 
