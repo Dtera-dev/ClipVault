@@ -1,0 +1,20 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+venv/
+env/
+.env
+
+# Database (Contains your private clipboard history!)
+vault.db
+
+# Build and Distribution folders
+build/
+dist/
+*.spec
+
+# System files
+.DS_Store
